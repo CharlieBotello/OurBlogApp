@@ -16,7 +16,7 @@ class ApplicationController < ActionController::Base
       # flash[:danger] = "You must be logged in to perform that action"
       # redirect_to root_page
       # redirect_to root_path
-      render 'pages/home'
+      # render 'pages/home'
       # redirect_to root_path
     else
     end
